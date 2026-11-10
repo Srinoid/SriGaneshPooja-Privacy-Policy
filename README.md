@@ -50,7 +50,7 @@ If you have questions about this Privacy Policy, contact the developer:
 
 -   **Design & Developer:** SLA Technologies
 -   **App:** Sri Ganesh Pooja Vidhanam
--   **Support email:** \slatechnologies.apps@gmail.com\]
+-   **Support email:** slatechnologies.apps@gmail.com
 
 ------------------------------------------------------------------------
 
